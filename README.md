@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- Name: Giovanni Robinson
+- Name: Giovanni Bamba
 - Course: JavaScript Foundations
 - Checkpoint: JavaScript Functions
 
